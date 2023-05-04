@@ -1,4 +1,16 @@
 # Pymaceuticals-challenge
 
+#Data Summary#
+As a senior data analyst at Pymaceuticals, I was given access to the complete data from their most recent animal study. 
+In this study, 249 mice who were identified with SCC tumors received treatment with a range of drug regimens. Over the course of 45 days, 
+tumor development was observed and measured. The purpose of this study was to compare the performance of Pymaceuticals’ drug of interest, 
+Capomulin, against the other treatment regimens. My findings are below.
+
+1. The distribution between male and female were nearly equal so sex as a factor could be nearly ruled out.
+2. Capomulin and Ramicane had the greatest timepoint checks combined with the smallest variance and standard deviation, we could infer that we could have received better results if all the drugs were checked as regularly as these two, we would be able to understand better if these two drugs are actually affective.
+3. There is overwhelming evidence that the drug Capomulin does work however when referencing the line plot. The randomly selected mouse b128 showed that the tumor volume decreased dramatically with a small regression at the end. 
+4. When looking at our scatter plot and linear regression we can infer that mouse weight was a factor to the tumor volume.
+
+
 I used Youtube videos published by Keith Galli, Coding is fun, and Python2020
 I used chatgpt to help me dubug code on my scatter plots
